@@ -1,2 +1,2 @@
-# curso-FastAPI
-Iniciando curso de FastAPI
+# pizzaria-FastAPI
+Iniciando projeto pizzaria com FastAPI
